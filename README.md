@@ -3,7 +3,7 @@
 <img width="1000" height="500" alt="exporting image" src="https://images.unsplash.com/photo-1578575437130-527eed3abbec?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" >
 
 ## Sobre o projeto
-* O projeto visa oferecer uma análise abrangente e detalhada das operações da exportadora Majestic. Foram realizadas análises das principais métricas, análise por continente, vendedores, comparação temporal, cross-sell (vendas cruzadas) e um simulador, possibilitanto simular a mudança de um indicador e ver qual o impacto na operação.
+* O projeto visa oferecer uma análise abrangente e detalhada das operações da exportadora Majestic. Foram realizadas análises das principais métricas, análise por continente, vendedores, comparação temporal, cross-sell (vendas cruzadas) e um simulador, possibilitando simular a mudança de um indicador e ver qual o impacto na operação.
 
 * O projeto fornece insights valiosos e visualizações significativas para melhor compreensão da empresa e tomada de decisões.
 <br />
@@ -62,9 +62,57 @@ Figma
 
 ⏳ Inserir vídeo ⏳
 
+## Visões e Insights
+
+#### Análise Geral
+
+Nesta primeira página do relatório, é possível visualizar as principais métricas sobre as operações de venda da exportadora. Além disso, temos visões de série temporal, faturamento por categoria, vendas por ano e uma análise geral por país.
+
+Possuimos, também, uma visão mais detalhada do faturamento por categoria, observando a quantidade de produtos e outras métricas específicas.
+
+⏳ Incluir Imagem ⏳
+
+#### Análise Continental
+
+Nesta visão, temos alguns indicadores como faturamento por continente, país top 1 de cada e margem de lucro.
+
+⏳ Incluir imagem ⏳
 
 
+#### Análise de Desempenho dos Vendedores
 
+Na página "Vendedores", além de um ranking por total de vendas, temos uma visão detalhada do desempenho de vendas dos vendedores por gestor e outras métricas.
+
+⏳ Incluir imagem ⏳
+
+#### Análise Comparativa
+
+Nesta tela, temos a comparação de desempenho de vendas entre o ano atual e o ano anterior (sendo possível selecionar com o segmentador), a variação da meta e do faturamento, além de outras métricas mais detalhadas.
+
+⏳ Incluir imagem ⏳
+
+#### Análise Temporal
+
+Temos uma visão super detalhada de diversas métricas importantes ao logo do tempo, incluindo uma análise das filiais da exportadora.
+
+⏳ Incluir imagem ⏳
+
+#### Simulador 
+
+Esta visão é uma das mais interessantes. Com esse pequeno simulador, é possível criar cenários hipotéticos para uma possível variação positiva da receita. Arrastando os slicers, você consegue notar os impactos que cada métrica tem sobre a margem de lucro.
+
+⏳ Incluir imagem ⏳
+
+#### Cross-Sell
+
+Na seção Cross-Sell (venda cruzada), temos a visão das vendas das sub-categorias e os produtos que mais são vendidos juntos. 
+
+⏳ Incluir imagem ⏳
+
+
+## Conclusão
+
+Esse projeto é importantíssimo e estratégico para os stakeholders que desejam ter uma visão geral e detalhada sobre as operações da sua empresa e poderem ter insights valiosos de possíveis implementações de melhorias de gestão e processos.
 
 
 
