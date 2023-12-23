@@ -28,16 +28,6 @@ Alguns dos problemas de negócio mais relevantes estão relacionados a desempenh
 - Qual é a margem de lucro geral da empresa?
 - Quais produtos têm a maior e menor margem de lucro?
 
-## Mapeamento dos Dados
-Os dados foram extraídos de um banco de dados, tratados e carregados em um arquivo Excel, contendo os registros de venda e informações de região, vendedores, produtos e outras categorias.
-
-⏳ Incluir imagem ⏳
-
-## Prototipação do Projeto
-Construção do layout das páginas do relatório visando a criação de um storytelling eficiente.
-
-⏳ Incluir imagens ⏳
-
 ## Ferramentas Utilizadas
 <div />
 <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png" alt="Power BI" width="25" height="25" />
@@ -49,12 +39,22 @@ Microsoft Excel
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" alt="Figma" width="25" height=25" />
 Figma
 
+## Mapeamento dos Dados
+Os dados foram extraídos de um banco de dados, tratados e carregados em um arquivo Excel, contendo os registros de venda e informações de região, vendedores, produtos e outras categorias.
+
+<img width="800" height="400" alt="exporting image" src="https://github.com/glebysonsantos/Projeto-Power-BI/assets/120113023/aaa1ffed-86a9-4576-96e2-ff6ec09ccdae" >
+
+## Prototipação do Projeto
+Construção do layout das páginas do relatório visando a criação de um storytelling eficiente.
+
+<img width="800" height="400" alt="exporting image" src="https://github.com/glebysonsantos/Projeto-Power-BI/assets/120113023/0b683ed2-b1fd-4607-be3f-cd76d4f717cc" >
+
 ## Extração, Transformação e Carga
 
 #### Preparação dos dados e análise da qualidade das informações
 * Após realizar limpeza, transformação e modelagem, realizo a checagem da qualidade dos dados e algums informações estatísticas.
 
-⏳ Inserir imagem ⏳
+<img width="800" height="400" alt="exporting image" src="https://github.com/glebysonsantos/Projeto-Power-BI/assets/120113023/f38bf6f6-eb84-4df6-91c5-d2c383f1014b" >
 
 ## Relatório Final
 
@@ -112,7 +112,7 @@ Na seção Cross-Sell (venda cruzada), temos a visão das vendas das sub-categor
 
 ## Conclusão
 
-Esse projeto é importantíssimo e estratégico para os stakeholders que desejam ter uma visão geral e detalhada sobre as operações da sua empresa e poderem ter insights valiosos de possíveis implementações de melhorias de gestão e processos.
+Esse projeto é importantíssimo e estratégico para os stakeholders que desejam ter uma visão geral e detalhada sobre as operações da sua empresa e poderem ter insights valiosos de possíveis implementações de melhorias de gestão e processos. Além disso, é possível implementar mais informações importantes, conforme demanda.
 
 
 
